@@ -1,7 +1,11 @@
 # Ark-Tooltip-Clipper
 Takes screenshots of tooltips in Ark: Survival Evolved. Good for selling and trading items and blueprints.
 
-Only works on other inventories besides you own. Makes a folder in script directory named "Captures" and saves captured images there. Currently only works on 1920x1080 resolutions.
+Only works on other inventories besides you own. Makes a folder in script directory named "Captures" and saves captured images there. 
+
+Requirements:
+1920x1080 resolution
+Gdip_All.ahk
 
 
 Usage:
